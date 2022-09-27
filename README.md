@@ -9,5 +9,5 @@
 <h5> The project uses only 2 library. You can install the library by typing 'pip install opencv-python' and 'pip install scipy' in the terminal </h5>
 <h2> How this is working? </h2>
 <h4> Our algorithm cartoonizing images. There are detailed comment lines
-<img src="https://i.hizliresim.com/68rix7n.jpg">
-<img src="https://i.hizliresim.com/b60pwai.png">
+<img src="https://i.hizliresim.com/68rix7n.jpg" width="100" height="100">
+<img src="https://i.hizliresim.com/b60pwai.png" width="100" height="100" >
